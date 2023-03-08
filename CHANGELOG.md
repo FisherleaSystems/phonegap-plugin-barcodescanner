@@ -1,5 +1,9 @@
 # Change Log
 
+## v8.1.2
+
+-   Fix to release issues.
+
 ## v8.1.1
 
 -   Fix build issue due to deprecated Gradle APIs.

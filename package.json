@@ -11,6 +11,15 @@
       "browser"
     ]
   },
+  "maintainers": [
+    {
+      "name": "Wayne Fisher",
+      "email": "wayne@fisherlea.com"
+    }
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/FisherleaSystems"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phonegap/phonegap-plugin-barcodescanner.git"
@@ -24,24 +33,6 @@
     "cordova-browser",
     "cordova:plugin"
   ],
-  "engines": {
-    "cordovaDependencies": {
-      "<7.0.0": {
-        "cordova-android": "<6.3.0"
-      },
-      "7.0.0": {
-        "cordova-android": ">=6.3.0"
-      },
-      "7.1.0": {
-        "cordova-android": ">=6.3.0",
-        "cordova": ">=7.1.0"
-      },
-      "8.0.0": {
-        "cordova-android": ">=6.3.0",
-        "cordova": ">=7.1.0"
-      }
-    }
-  },
   "author": "Adobe PhoneGap Team",
   "license": "MIT",
   "bugs": {
